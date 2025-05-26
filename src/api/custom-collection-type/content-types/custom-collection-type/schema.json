@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "custom_collection_types",
+  "info": {
+    "singularName": "custom-collection-type",
+    "pluralName": "custom-collection-types",
+    "displayName": "custom-collection-type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Mobile_Number": {
+      "type": "biginteger"
+    },
+    "Address": {
+      "type": "richtext"
+    }
+  }
+}

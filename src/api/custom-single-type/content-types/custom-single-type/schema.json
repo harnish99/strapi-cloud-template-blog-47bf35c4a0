@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "custom_single_types",
+  "info": {
+    "singularName": "custom-single-type",
+    "pluralName": "custom-single-types",
+    "displayName": "custom-single-type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "App_name": {
+      "type": "string"
+    }
+  }
+}
